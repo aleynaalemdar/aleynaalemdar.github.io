@@ -6,17 +6,17 @@
 }
 
 :root {
-  --color-primary: #fbf3d5;
-  --color-secondary: #dc6fbf;
+  --color-primary: #F5E6DF;
+  --color-secondary: #ED1E79;
   --color-white: #3c2417;
   --color-black: #000;
 
-  --color-grey-1: #dc6fbf;
-  --color-grey-2: #dc6fbf;
+  --color-grey-1: #ED1E79;
+  --color-grey-2: #ED1E79;
 
-  --color-grey-4: #fbf3d5;
-  --color-grey-5: #fbf3d5;
-  --color-grey-6: #dc6fbf;
+  --color-grey-4: #F5E6DF;
+  --color-grey-5: #F5E6DF;
+  --color-grey-6: #ED1E79;
   --br-sm-2: 14px;
   --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
 }
@@ -684,7 +684,7 @@ section {
   display: inline-block;
   margin-top: 10px;
   padding: 5px 10px;
-  background-color: #dc6fbf;
+  background-color: #ED1E79;
   color: #3c2417;
   text-decoration: none;
   border-radius: 4px;
@@ -694,7 +694,7 @@ section {
 }
 
 .button-link:hover {
-  background-color: #dc6fbf;
+  background-color: #ED1E79;
 }
 
 @media screen and (max-width: 600px) {
