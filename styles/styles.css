@@ -334,7 +334,7 @@ section {
 /*Timeline*/
 .timeline {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 2fr);
   grid-gap: 2rem;
   padding-bottom: 3rem;
 }
@@ -389,7 +389,7 @@ section {
 
 .portfolios {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 3fr);
   grid-gap: 2rem;
   margin-top: 3rem;
 }
