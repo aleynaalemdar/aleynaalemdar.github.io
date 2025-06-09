@@ -195,10 +195,10 @@ const portfolioData = {
     ],
     
     skillsDetailed: {
-        proficient: ['Java', 'C#', 'Python', 'LabVIEW', 'Object Oriented Programming'],
-        familiar: ['C', 'React', 'REST API', 'SQL', 'YOLO', 'OpenCV', 'LSTM', 'Prophet', 'Genetic Algorithm', 'Fastai', 'Hugging Face Spaces', 'Gradio', 'MySQL', 'MongoDB', 'Java Swing', 'Git', 'WordPress', 'HTML/CSS', 'JavaScript', 'Flutter', 'Dart', 'Blender', 'Unity', 'R', 'RStudio']
+        proficient: ['Java', 'C#', 'Python', 'Object Oriented Programming', 'Embedded Systems', 'Raspberry Pi', 'Qt Designer' ,'LabVIEW' ],
+        familiar: ['C', 'Linux', 'React', 'REST API', 'SQL', 'YOLO', 'OpenCV', 'LSTM', 'Prophet', 'Genetic Algorithm', 'Fastai', 'Hugging Face Spaces', 'Gradio', 'MySQL', 'MongoDB', 'Java Swing', 'Git', 'WordPress', 'HTML/CSS', 'JavaScript', 'Flutter', 'Dart', 'Blender', 'Unity', 'R', 'RStudio']
     }
-};
+    }
 
 // App Class 
 class PortfolioApp {
@@ -345,7 +345,7 @@ class PortfolioApp {
             <section class="page-section" id="experience">
                 <div class="section-header">
                     <h2>Professional Experience</h2>
-                    <p>Building innovative solutions through hands-on development and collaboration</p>
+                    <p>2+ years of professional software development across multiple technologies</p>
                 </div>
 
                 <div class="timeline-container">
@@ -499,7 +499,6 @@ class PortfolioApp {
                             <a href="${github}" class="social-link" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
                             <a href="${linkedin}" class="social-link" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
                             <a href="${website}" class="social-link" target="_blank" title="Personal Website"><i class="fas fa-globe"></i></a>
-                            <a href="mailto:${email}" class="social-link" title="Email"><i class="fas fa-envelope"></i></a>
                         </div>
                     </div>
 
@@ -536,7 +535,7 @@ class PortfolioApp {
                         <div style="margin-bottom: 30px;">
                             <h4 style="color: var(--color-accent-light); margin-bottom: 15px;">Core Expertise</h4>
                             <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-                                ${['AI/ML', 'Python', 'Java', 'C#', 'React', 'Flutter', 'LabVIEW', 'Embedded Systems'].map(tech => 
+                                ${['AI/ML', 'Python', 'Java', 'C#', 'Embedded Systems'].map(tech => 
                                     `<span class="tech-tag">${tech}</span>`
                                 ).join('')}
                             </div>
@@ -548,7 +547,6 @@ class PortfolioApp {
                                 <li>${portfolioData.certificates.length} Professional Certifications</li>
                                 <li>IELTS Academic Score: 7.0</li>
                                 <li>Active collaboration with TAI & TÜBİTAK</li>
-                                <li>Published projects on Hugging Face</li>
                                 <li>TEKNOFEST Competition Participant</li>
                             </ul>
                         </div>
