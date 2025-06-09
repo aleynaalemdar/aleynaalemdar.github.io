@@ -167,6 +167,7 @@ const portfolioData = {
     ],
     
     certificates: [
+        { icon: 'fas fa-language', title: 'IELTS Academic Score: 7.0', issuer: 'British Council', date: '2024', link: '#' },
         { icon: 'fas fa-chart-line', title: 'Exploratory Data Analysis', issuer: 'Coursera', date: 'April 2025', link: 'https://coursera.org/share/863705d670795b42c0b1a214b74d9f6e' },
         { icon: 'fas fa-robot', title: 'Supervised Learning with scikit-learn', issuer: 'DataCamp', date: 'October 2024', link: '#' },
         { icon: 'fab fa-python', title: 'Intermediate Python', issuer: 'DataCamp', date: 'October 2024', link: '#' },
@@ -185,7 +186,6 @@ const portfolioData = {
         { icon: 'fas fa-gamepad', title: 'Global Game Jam Participation', issuer: 'Global Game Jam', date: 'February 2023', link: 'https://credsverse.com/credentials/45cc415b-c728-441c-bf0a-b7c2f1bd3591' },
         { icon: 'fas fa-code', title: 'TEDU Welcome to Software Development Path', issuer: 'Patika.dev', date: 'January 2023', link: 'https://app.patika.dev/certificates/ea81aee0' },
         { icon: 'fab fa-java', title: '(42 Hours) Complete Java Developer Course From Scratch', issuer: 'Udemy', date: 'January 2023', link: 'https://www.udemy.com/certificate/UC-2745730f-f6bf-43a7-bc20-0412735bd441/' },
-        { icon: 'fas fa-language', title: 'IELTS Academic Score: 7.0', issuer: 'Advanced English', date: '2024', link: '#' }
     ],
     
     languages: [
