@@ -623,7 +623,7 @@ class PortfolioApp {
         
         // Update page title
         const titles = {
-            home: 'Aleyna Alemdar - AI Software Engineer',
+            home: 'Aleyna Alemdar - Computer Engineer',
             about: 'About - Aleyna Alemdar',
             experience: 'Experience - Aleyna Alemdar',
             education: 'Education - Aleyna Alemdar',
