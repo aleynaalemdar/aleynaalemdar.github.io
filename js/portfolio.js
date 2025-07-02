@@ -2,7 +2,7 @@ const portfolioData = {
     personal: {
         name: 'Aleyna Alemdar',
         title: 'Computer Engineer',
-        subtitle: 'Soon-to-be (July 2025) Computer Engineering graduate with 2+ years of professional software development experience acquired alongside academic studies',
+        subtitle: 'Computer Engineering graduate with 2+ years of professional software development experience acquired alongside academic studies',
         description: 'Currently developing AI transportation optimization solutions in collaboration with Turkish Aerospace Industries and TUBITAK. Skilled in embedded systems, full-stack development and machine learning',
         location: 'Ankara, Turkey',
         email: 'aleyna.alemdar@tedu.edu.tr',
@@ -37,7 +37,7 @@ const portfolioData = {
     
     experience: [
         {
-            period: 'February 2024 - Ongoing',
+            period: 'February 2024 - June 2025',
             title: 'Candidate Software Engineer',
             company: 'NanoMagnetics Instruments',
             description: `• Designed GUI-based embedded system interfaces using Python<br>
@@ -82,7 +82,7 @@ const portfolioData = {
         university: 'TED University',
         degree: 'Bachelor of Science, Major in Computer Engineering',
         period: '2021 - 2025',
-        gpa: '2.95 / 4.00',
+        gpa: '2.97 / 4.00',
         language: '100% English education',
         secondaryField: 'Applied Data Analysis',
         coursework: ['Object Oriented Programming', 'Database Systems', 'Embedded Systems', 'Software Engineering', 'Artificial Intelligence', 'Data Structures', 'Algorithm Analysis', 'Computer Networks', 'Operating Systems', 'Computer Organization', 'Statistical Inference Methods with Applications', 'Python for Data Science', 'Digital Image Processing','Statistical Learning', 'Exploratory Data Analysis', 'Introduction to Deep Learning',]
