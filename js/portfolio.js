@@ -92,7 +92,7 @@ const portfolioData = {
         {
             icon: 'fas fa-brain',
             title: 'TAI AND TUBITAK - Scheduling Optimization with Artificial Intelligence',
-            description: 'Developing an AI-driven public transport scheduler with LSTM, Prophet, and Genetic Algorithms, in collaboration with TAI and TÜBİTAK. Building a cross-platform web and mobile interface in React, and implementing a RESTful API to connect the AI engine with the user-facing applications.',
+            description: 'Developing an AI-driven public transport scheduler with LSTM, Prophet, and Genetic Algorithms, in collaboration with TAI and TUBITAK. Building a cross-platform web and mobile interface in React, and implementing a RESTful API to connect the AI engine with the user-facing applications.',
             technologies: ['LSTM', 'Prophet', 'Genetic Algorithm', 'React', 'REST API'],
             period: 'November 2024 - Present',
         },
@@ -178,9 +178,9 @@ const portfolioData = {
         { icon: 'fas fa-chart-bar', title: 'Fitting Statistical Models to Data with Python', issuer: 'Coursera', date: 'January 2024', link: 'https://www.coursera.org/account/accomplishments/verify/ANKVY5JFBLH6' },
         { icon: 'fas fa-chart-area', title: 'Inferential Statistical Analysis with Python', issuer: 'Coursera', date: 'December 2023', link: 'https://www.coursera.org/account/accomplishments/verify/HXU6DU3WSL5H' },
         { icon: 'fas fa-chart-pie', title: 'Understanding and Visualizing Data with Python', issuer: 'Coursera', date: 'November 2023', link: 'https://www.coursera.org/account/accomplishments/verify/PNZ6E7ZQPFXP' },
-        { icon: 'fas fa-users', title: 'Bootcamp 2023: User Experience and Usability Training', issuer: 'TÜBİTAK BILGEM YTE', date: 'October 2023', link: '#' },
-        { icon: 'fas fa-server', title: 'Bootcamp 2023: Microservice Architectures Training', issuer: 'TÜBİTAK BILGEM YTE', date: 'October 2023', link: '#' },
-        { icon: 'fas fa-pencil-ruler', title: 'Bootcamp 2023: Mock-Up Figma Training', issuer: 'TÜBİTAK BILGEM YTE', date: 'October 2023', link: '#' },
+        { icon: 'fas fa-users', title: 'Bootcamp 2023: User Experience and Usability Training', issuer: 'TUBITAK BILGEM YTE', date: 'October 2023', link: '#' },
+        { icon: 'fas fa-server', title: 'Bootcamp 2023: Microservice Architectures Training', issuer: 'TUBITAK BILGEM YTE', date: 'October 2023', link: '#' },
+        { icon: 'fas fa-pencil-ruler', title: 'Bootcamp 2023: Mock-Up Figma Training', issuer: 'TUBITAK BILGEM YTE', date: 'October 2023', link: '#' },
         { icon: 'fas fa-calculator', title: 'Financial Accounting Fundamentals', issuer: 'Coursera', date: 'June 2023', link: 'https://www.coursera.org/account/accomplishments/certificate/2CMQKLTFP4UW' },
         { icon: 'fas fa-brain', title: 'First Step to Artificial Intelligence', issuer: 'Global AI Hub', date: 'February 2023', link: '#' },
         { icon: 'fas fa-gamepad', title: 'Global Game Jam Participation', issuer: 'Global Game Jam', date: 'February 2023', link: 'https://credsverse.com/credentials/45cc415b-c728-441c-bf0a-b7c2f1bd3591' },
@@ -510,7 +510,7 @@ class PortfolioApp {
                                 <i class="fas fa-rocket"></i> Current Focus
                             </h4>
                             <p style="color: var(--color-text-muted); line-height: 1.6;">
-                                Developing AI transportation optimization solutions with Turkish Aerospace Industries and TÜBİTAK
+                                Developing transportation optimization solutions using artificial intelligence with Turkish Aerospace Industries and TUBITAK
                             </p>
                         </div>
                         
@@ -519,7 +519,7 @@ class PortfolioApp {
                                 <i class="fas fa-graduation-cap"></i> Academic Status
                             </h4>
                             <p style="color: var(--color-text-muted); line-height: 1.6;">
-                                Final year Computer Engineering student at TED University with focus on Applied Data Analysis
+                                Soon-to-be (July 2025) Computer Engineering graduate from TED University with focus on Applied Data Analysis
                             </p>
                         </div>
                         
@@ -546,7 +546,7 @@ class PortfolioApp {
                             <ul style="color: var(--color-text-muted); line-height: 1.6; margin-left: 20px;">
                                 <li>${portfolioData.certificates.length} Professional Certifications</li>
                                 <li>IELTS Academic Score: 7.0</li>
-                                <li>Active collaboration with TAI & TÜBİTAK</li>
+                                <li>Active collaboration with TAI and TUBITAK</li>
                                 <li>TEKNOFEST Competition Participant</li>
                             </ul>
                         </div>
