@@ -519,7 +519,7 @@ class PortfolioApp {
                                 <i class="fas fa-graduation-cap"></i> Academic Status
                             </h4>
                             <p style="color: var(--color-text-muted); line-height: 1.6;">
-                                Soon-to-be (July 2025) Computer Engineering graduate from TED University with focus on Applied Data Analysis
+                                Computer Engineering graduate from TED University with focus on Applied Data Analysis
                             </p>
                         </div>
                         
