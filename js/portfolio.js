@@ -5,7 +5,7 @@ const portfolioData = {
         subtitle: 'Computer Engineering graduate with 2+ years of professional software development experience acquired alongside academic studies',
         description: 'Currently developing AI transportation optimization solutions in collaboration with Turkish Aerospace Industries and TUBITAK. Skilled in embedded systems, full-stack development and machine learning',
         location: 'Ankara, Turkey',
-        email: 'aleyna.alemdar@tedu.edu.tr',
+        email: 'aleynaalemdar06@gmail.com',
         phone: '+90 530 591 92 69',
         github: 'https://github.com/aleynaalemdar',
         linkedin: 'https://www.linkedin.com/in/aleynaalemdar/',
